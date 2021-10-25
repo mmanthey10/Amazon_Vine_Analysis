@@ -17,6 +17,6 @@ Unpaid:
 
 ## Summaries
 
-Is there any positivity bias due to vine program?
+Based on my analysis, there no positivity bias related to the vine program as % of five star ratings was near equal to those of non vine users.
 
-Recommended additional analysis:
+One additional analysis that would help test for bias would be to look at the other end of the spectrum and test for percent of one star ratings. Also, understanding the distribution of all ratings would be useful in this analysis.
